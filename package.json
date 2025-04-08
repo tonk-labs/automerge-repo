@@ -1,5 +1,5 @@
 {
-  "name": "@automerge/automerge-repo-monorepo",
+  "name": "@tonk/automerge-repo-monorepo-fork",
   "version": "1.2.1",
   "description": "Automerge Repo monorepo",
   "main": "packages/automerge-repo/dist/index.js",
