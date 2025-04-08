@@ -122,6 +122,8 @@ export {
   applyChanges,
   view,
   getConflicts,
+  toJS,
+  getHeads
 } from "@automerge/automerge/slim/next"
 
 // export type-specific utility functions
