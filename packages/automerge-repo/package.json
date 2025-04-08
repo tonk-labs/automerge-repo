@@ -1,5 +1,5 @@
 {
-  "name": "@automerge/automerge-repo",
+  "name": "@tonk/automerge-repo-fork",
   "version": "1.2.0",
   "description": "A repository object to manage a collection of automerge documents",
   "repository": "https://github.com/automerge/automerge-repo/tree/master/packages/automerge-repo",
