@@ -6,7 +6,6 @@
   "repository": "https://github.com/automerge/automerge-repo",
   "author": "Peter van Hardenberg <pvh@pvh.ca>",
   "license": "MIT",
-  "private": true,
   "type": "module",
   "scripts": {
     "build": "pnpm -r build",
