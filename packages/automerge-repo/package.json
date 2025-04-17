@@ -1,9 +1,9 @@
 {
   "name": "@tonk/automerge-repo",
-  "version": "1.2.1",
+  "version": "1.0.0",
   "description": "A repository object to manage a collection of automerge documents",
-  "repository": "https://github.com/automerge/automerge-repo/tree/master/packages/automerge-repo",
-  "author": "Peter van Hardenberg <pvh@pvh.ca>",
+  "repository": "https://github.com/tonk-labs/automerge-repo",
+  "author": "Peter van Hardenberg, Tonk Labs",
   "license": "MIT",
   "type": "module",
   "main": "dist/index.js",
